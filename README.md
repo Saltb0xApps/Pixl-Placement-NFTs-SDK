@@ -12,7 +12,7 @@ You'll need a license key to initialise & use the SDK.
 import PixlNFTsPlacementSDK
 
 func initialisePixlSDK() {
-    let pixlSDK = PixlNFTsPlacementSDK.init()
+    let pixlSDK = PixlNFTsPlacementViewController.init()
     pixlSDK.delegate = self
 }
 ```
@@ -22,7 +22,7 @@ func initialisePixlSDK() {
 import PixlNFTsPlacementSDK
 
 func showAR() {
-    let pixlSDK = PixlNFTsPlacementSDK.init()
+    let pixlSDK = PixlNFTsPlacementViewController.init()
     pixlSDK.delegate = self
     pixlSDK.licenseKey = ""
     pixlSDK.placementNFT = NFTAsset.init(token_address: "", token_id: "", metadata: "", name: "", token_uri: "", blockchain: "polygon")
