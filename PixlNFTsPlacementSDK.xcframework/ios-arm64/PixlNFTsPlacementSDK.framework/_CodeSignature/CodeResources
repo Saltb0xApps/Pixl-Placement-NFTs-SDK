@@ -14,15 +14,15 @@
 		</data>
 		<key>ARCoreResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		VUYAAnum4IWsWBNek88RLHfpKq4=
+		q26ES2h5OGXTmM0DDWkkvolra+s=
 		</data>
 		<key>ARCoreResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
-		T+2vgqnT8nV2NTS9rDrRbjGLvio=
+		GsibSXmtIwegrOnItpU7eAJpsCY=
 		</data>
 		<key>ARCoreResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		cDKP3dm7lqcez6AxzBDLhkzA6XA=
+		9jmgkGnjL0V/JCrfXxqsJp0LaGE=
 		</data>
 		<key>ARCoreResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>ARCoreResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		tS9hLXad4bI72HnMW+hiL45OniY=
+		fduRYTw71Vf0SW0wD4Zj4OcNHp8=
 		</data>
 		<key>Headers/PixlNFTsPlacementSDK-Swift.h</key>
 		<data>
@@ -89,21 +89,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IE2QOqv5mZ/mD2snDYD1YNZUVGXVpkYOkQV52FE2Bqw=
+			/j6D2LMcQ1Au/D/blt4kb9V5fawSP36NpquB7QxsaaE=
 			</data>
 		</dict>
 		<key>ARCoreResources.bundle/_CodeSignature/CodeRequirements</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bIio+KPenZZz2DDez6bZBRH2yuG0GjJTpgXDk34UmoE=
+			ZU33mgzHDq0ySKaZQOiTtmBfI4GAwoAD1+PozVAnK3M=
 			</data>
 		</dict>
 		<key>ARCoreResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G7s3GZEUXYFWekHFA3fVWx+zCihpdqtJmh+WUtFkZio=
+			oAbcx8Wk1MoqLhig7xyz9JFNypm+8GoqEXQxvQuu6bg=
 			</data>
 		</dict>
 		<key>ARCoreResources.bundle/_CodeSignature/CodeResources</key>
@@ -117,7 +117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pFPry1LQmplBS40npmK1cAM9Iq7yWzCw9gCE+WAY/UU=
+			bAjVJYvm9K/WLZePYbtRj7EL/dEpoUydD6aybFdJXvs=
 			</data>
 		</dict>
 		<key>Headers/PixlNFTsPlacementSDK-Swift.h</key>
