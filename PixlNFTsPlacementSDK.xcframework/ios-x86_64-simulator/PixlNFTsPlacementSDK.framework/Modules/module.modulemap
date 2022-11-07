@@ -6,6 +6,6 @@ framework module PixlNFTsPlacementSDK {
 }
 
 module PixlNFTsPlacementSDK.Swift {
-    header "PixlNFTsPlacementSDK-Swift.h"
-    requires objc
+  header "PixlNFTsPlacementSDK-Swift.h"
+  requires objc
 }
