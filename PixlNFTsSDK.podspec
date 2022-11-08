@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'PixlNFTsPlacementSDK'
-    s.version           = '1.0.5'
+    s.version           = '1.0.6'
     s.summary           = 'place nfts from the polygon blockchain anywhere in AR with persistence'
     s.homepage          = 'https://www.pixlapp.xyz'
 
@@ -11,7 +11,4 @@ Pod::Spec.new do |s|
     s.source            = { :http => 'https://github.com/Saltb0xApps/Pixl-Placement-NFTs-SDK/tree/main/PixlNFTsPlacementSDK.xcframework' } 
     s.ios.deployment_target = '12.0'
     s.ios.vendored_frameworks = 'PixlNFTsPlacementSDK.xcframework'
-    s.dependency 'ARCore/CloudAnchors', '~> 1.30.0'
-    s.dependency 'JWT', '~>3.0.0-beta.1'
-    s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 end 

@@ -2,11 +2,9 @@
 // swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name PixlNFTsPlacementSDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
-import ARCore
 import ARKit
 import CoreLocation
 import Foundation
-import JWT
 @_exported import PixlNFTsPlacementSDK
 import SceneKit
 import Swift
@@ -38,7 +36,6 @@ public protocol PixlNFTsPlacementSDKDelegate : AnyObject {
   @_Concurrency.MainActor(unsafe) public var licenseKey: Swift.String?
   @_Concurrency.MainActor(unsafe) public var creatorWalletAddress: Swift.String?
   @_Concurrency.MainActor(unsafe) public var placementNFT: PixlNFTsPlacementSDK.NFTAsset?
-  @_Concurrency.MainActor(unsafe) public var accurateMode: Swift.Bool
   @_Concurrency.MainActor(unsafe) weak public var delegate: PixlNFTsPlacementSDK.PixlNFTsPlacementSDKDelegate?
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func didReceiveMemoryWarning()
@@ -52,6 +49,7 @@ public protocol PixlNFTsPlacementSDKDelegate : AnyObject {
   }
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func touchesEnded(_ touches: Swift.Set<UIKit.UITouch>, with event: UIKit.UIEvent?)
   @_Concurrency.MainActor(unsafe) public func addAnchor(withTransform transform: simd.matrix_float4x4)
+  @_Concurrency.MainActor(unsafe) public func saveAnchor()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
@@ -61,10 +59,4 @@ extension PixlNFTsPlacementSDK.PixlNFTsPlacementViewController : ARKit.ARSCNView
   @_Concurrency.MainActor(unsafe) @objc dynamic public func renderer(_ renderer: SceneKit.SCNSceneRenderer, nodeFor anchor: ARKit.ARAnchor) -> SceneKit.SCNNode?
   @_Concurrency.MainActor(unsafe) @objc dynamic public func renderer(_ renderer: SceneKit.SCNSceneRenderer, didAdd node: SceneKit.SCNNode, for anchor: ARKit.ARAnchor)
   @_Concurrency.MainActor(unsafe) @objc dynamic public func renderer(_ renderer: SceneKit.SCNSceneRenderer, didRemove node: SceneKit.SCNNode, for anchor: ARKit.ARAnchor)
-}
-extension PixlNFTsPlacementSDK.PixlNFTsPlacementViewController : ARCoreCloudAnchors.GARSessionDelegate {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func session(_ session: ARCoreCloudAnchors.GARSession, didHost anchor: ARCoreCloudAnchors.GARAnchor)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func session(_ session: ARCoreCloudAnchors.GARSession, didFailToHost anchor: ARCoreCloudAnchors.GARAnchor)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func session(_ session: ARCoreCloudAnchors.GARSession, didResolve anchor: ARCoreCloudAnchors.GARAnchor)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func session(_ session: ARCoreCloudAnchors.GARSession, didFailToResolve anchor: ARCoreCloudAnchors.GARAnchor)
 }
