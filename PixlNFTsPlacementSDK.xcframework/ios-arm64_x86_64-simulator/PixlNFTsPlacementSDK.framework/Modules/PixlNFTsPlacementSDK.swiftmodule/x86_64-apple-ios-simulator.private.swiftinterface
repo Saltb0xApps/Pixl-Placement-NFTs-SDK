@@ -11,7 +11,8 @@ import Swift
 import UIKit
 import _Concurrency
 import _StringProcessing
-public struct NFTAsset : Swift.Codable, Swift.Hashable {
+public class NFTAsset : Swift.Codable, Swift.Hashable {
+  public init(token_address: Swift.String? = nil, token_id: Swift.String? = nil, metadata: Swift.String? = nil, name: Swift.String? = nil, token_uri: Swift.String? = nil, blockchain: Swift.String? = nil)
   public static func == (lhs: PixlNFTsPlacementSDK.NFTAsset, rhs: PixlNFTsPlacementSDK.NFTAsset) -> Swift.Bool
   public func hash(into hasher: inout Swift.Hasher)
   public typealias CompletionHandler = (_ success: Swift.Bool, _ metadataURL: Swift.String) -> Swift.Void
@@ -23,11 +24,12 @@ public struct NFTAsset : Swift.Codable, Swift.Hashable {
   public func getDescription() -> Swift.String
   public func getExternalURL() -> Swift.String
   public func getAttributes() -> [[Swift.String : Any]]
+  @objc deinit
   public func encode(to encoder: Swift.Encoder) throws
   public var hashValue: Swift.Int {
     get
   }
-  public init(from decoder: Swift.Decoder) throws
+  required public init(from decoder: Swift.Decoder) throws
 }
 public protocol PixlNFTsPlacementSDKDelegate : AnyObject {
   func didCompleteNFTPlacement(success: Swift.Bool, data: [Swift.String : Any], error: Swift.String?)

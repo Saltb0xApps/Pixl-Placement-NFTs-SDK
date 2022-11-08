@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Bts4x949DrwqFYIcSHjkuijZJYM=
+		7J25Jad2DXT7WZMnmHxkkWDbZ0M=
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		heDGi/R5VPG5SV+4ma4CqNmkm5c=
+		1bCZfXGmMyR1dnwsOpgjWuFhZMY=
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		heDGi/R5VPG5SV+4ma4CqNmkm5c=
+		1bCZfXGmMyR1dnwsOpgjWuFhZMY=
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ntdYJVF5cbimnviI/lJrTYERc6M=
+		08ZU4K1/tPEUSLIIM7yya/3wK9s=
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Bts4x949DrwqFYIcSHjkuijZJYM=
+		7J25Jad2DXT7WZMnmHxkkWDbZ0M=
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		s7gJ/3jTTZOl5JOutqyk07WXe9U=
+		jNqUSXrtgP6sOXtaafBzfYZmT8k=
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		s7gJ/3jTTZOl5JOutqyk07WXe9U=
+		jNqUSXrtgP6sOXtaafBzfYZmT8k=
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		irSNoUcdKepxJS/my6DdtKytgyM=
+		oOFM/+wZbLIhG3ERBNQ7qa8hbTM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VQ8ZV2fSw77rTw1/cxcWasAvPYxQmm8MvJ6osklmW9o=
+			nZa66lOM6mYu3JxGg3+jhplT4MWVoggF1XcFaKJSlk0=
 			</data>
 		</dict>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LuAyItmR9rJtSRuw4cyl2X603ZLb5PPuebGk7OCM98Y=
+			l0XWRoe8tj1E+CWexzl+lqCwnbkEH/cg7c6Q0PTHbkM=
 			</data>
 		</dict>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LuAyItmR9rJtSRuw4cyl2X603ZLb5PPuebGk7OCM98Y=
+			l0XWRoe8tj1E+CWexzl+lqCwnbkEH/cg7c6Q0PTHbkM=
 			</data>
 		</dict>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GRCRQ51e5ig0vM/If8OVxC9EiifYK71GWfPk/nhAILE=
+			2nwkDWIdAVYNdGTmsTHOnblkntq3sCKDi/AbAIY2YPc=
 			</data>
 		</dict>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VQ8ZV2fSw77rTw1/cxcWasAvPYxQmm8MvJ6osklmW9o=
+			nZa66lOM6mYu3JxGg3+jhplT4MWVoggF1XcFaKJSlk0=
 			</data>
 		</dict>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YEZTQbSwpv7AmNhyP1urdku7GziNNxndJ3gyEdedbcM=
+			rZdJxHI/sWyRlPU95uutQAt+Jl95IY/RhovsiZIuoqQ=
 			</data>
 		</dict>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YEZTQbSwpv7AmNhyP1urdku7GziNNxndJ3gyEdedbcM=
+			rZdJxHI/sWyRlPU95uutQAt+Jl95IY/RhovsiZIuoqQ=
 			</data>
 		</dict>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zeHgbQHvWqWohk38uzIGPI4DAoU5YDdO5hxs2uDXIDs=
+			BVggzI2himdHeIMVHgGLwvGtj+Tc6/3I31PXiZvJqDc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

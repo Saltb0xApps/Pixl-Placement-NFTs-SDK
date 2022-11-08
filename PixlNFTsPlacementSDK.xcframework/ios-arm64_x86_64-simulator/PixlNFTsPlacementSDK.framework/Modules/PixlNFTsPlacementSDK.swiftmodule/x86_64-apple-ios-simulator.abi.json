@@ -20,6 +20,117 @@
         "printedName": "NFTAsset",
         "children": [
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(token_address:token_id:metadata:name:token_uri:blockchain:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NFTAsset",
+                "printedName": "PixlNFTsPlacementSDK.NFTAsset",
+                "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC13token_address0F3_id8metadata4name0F4_uri10blockchainACSSSg_A5Jtcfc",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC13token_address0F3_id8metadata4name0F4_uri10blockchainACSSSg_A5Jtcfc",
+            "moduleName": "PixlNFTsPlacementSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "==",
             "printedName": "==(_:_:)",
@@ -34,21 +145,22 @@
                 "kind": "TypeNominal",
                 "name": "NFTAsset",
                 "printedName": "PixlNFTsPlacementSDK.NFTAsset",
-                "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV"
+                "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC"
               },
               {
                 "kind": "TypeNominal",
                 "name": "NFTAsset",
                 "printedName": "PixlNFTsPlacementSDK.NFTAsset",
-                "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV"
+                "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC"
               }
             ],
             "declKind": "Func",
-            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV2eeoiySbAC_ACtFZ",
-            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV2eeoiySbAC_ACtFZ",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC2eeoiySbAC_ACtFZ",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC2eeoiySbAC_ACtFZ",
             "moduleName": "PixlNFTsPlacementSDK",
             "static": true,
             "declAttributes": [
+              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
@@ -72,8 +184,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV4hash4intoys6HasherVz_tF",
-            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV4hash4intoys6HasherVz_tF",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC4hash4intoys6HasherVz_tF",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC4hash4intoys6HasherVz_tF",
             "moduleName": "PixlNFTsPlacementSDK",
             "declAttributes": [
               "AccessControl"
@@ -93,8 +205,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV11getImageURLSSyF",
-            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV11getImageURLSSyF",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC11getImageURLSSyF",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC11getImageURLSSyF",
             "moduleName": "PixlNFTsPlacementSDK",
             "declAttributes": [
               "AccessControl"
@@ -114,8 +226,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV15getAnimationURLSSyF",
-            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV15getAnimationURLSSyF",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC15getAnimationURLSSyF",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC15getAnimationURLSSyF",
             "moduleName": "PixlNFTsPlacementSDK",
             "declAttributes": [
               "AccessControl"
@@ -165,8 +277,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV19fetchUpdateMetadata10completionyySb_SStc_tF",
-            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV19fetchUpdateMetadata10completionyySb_SStc_tF",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC19fetchUpdateMetadata10completionyySb_SStc_tF",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC19fetchUpdateMetadata10completionyySb_SStc_tF",
             "moduleName": "PixlNFTsPlacementSDK",
             "declAttributes": [
               "AccessControl"
@@ -192,8 +304,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV16getIPFSFormatted7ipfsURLS2S_tF",
-            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV16getIPFSFormatted7ipfsURLS2S_tF",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC16getIPFSFormatted7ipfsURLS2S_tF",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC16getIPFSFormatted7ipfsURLS2S_tF",
             "moduleName": "PixlNFTsPlacementSDK",
             "declAttributes": [
               "AccessControl"
@@ -213,8 +325,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV7getNameSSyF",
-            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV7getNameSSyF",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC7getNameSSyF",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC7getNameSSyF",
             "moduleName": "PixlNFTsPlacementSDK",
             "declAttributes": [
               "AccessControl"
@@ -234,8 +346,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV14getDescriptionSSyF",
-            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV14getDescriptionSSyF",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC14getDescriptionSSyF",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC14getDescriptionSSyF",
             "moduleName": "PixlNFTsPlacementSDK",
             "declAttributes": [
               "AccessControl"
@@ -255,8 +367,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV14getExternalURLSSyF",
-            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV14getExternalURLSSyF",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC14getExternalURLSSyF",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC14getExternalURLSSyF",
             "moduleName": "PixlNFTsPlacementSDK",
             "declAttributes": [
               "AccessControl"
@@ -297,8 +409,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV13getAttributesSaySDySSypGGyF",
-            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV13getAttributesSaySDySSypGGyF",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC13getAttributesSaySDySSypGGyF",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC13getAttributesSaySDySSypGGyF",
             "moduleName": "PixlNFTsPlacementSDK",
             "declAttributes": [
               "AccessControl"
@@ -314,7 +426,7 @@
                 "kind": "TypeNominal",
                 "name": "NFTAsset",
                 "printedName": "PixlNFTsPlacementSDK.NFTAsset",
-                "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV"
+                "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC"
               },
               {
                 "kind": "TypeNominal",
@@ -324,10 +436,13 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV4fromACs7Decoder_p_tKcfc",
-            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV4fromACs7Decoder_p_tKcfc",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC4fromACs7Decoder_p_tKcfc",
             "moduleName": "PixlNFTsPlacementSDK",
             "implicit": true,
+            "declAttributes": [
+              "Required"
+            ],
             "throwing": true,
             "init_kind": "Designated"
           },
@@ -349,8 +464,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV6encode2toys7Encoder_p_tKF",
-            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV6encode2toys7Encoder_p_tKF",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC6encode2toys7Encoder_p_tKF",
             "moduleName": "PixlNFTsPlacementSDK",
             "implicit": true,
             "throwing": true,
@@ -369,8 +484,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV9hashValueSivp",
-            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV9hashValueSivp",
+            "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC9hashValueSivp",
+            "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC9hashValueSivp",
             "moduleName": "PixlNFTsPlacementSDK",
             "implicit": true,
             "accessors": [
@@ -387,8 +502,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV9hashValueSivg",
-                "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV9hashValueSivg",
+                "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC9hashValueSivg",
+                "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC9hashValueSivg",
                 "moduleName": "PixlNFTsPlacementSDK",
                 "implicit": true,
                 "accessorKind": "get"
@@ -396,9 +511,9 @@
             ]
           }
         ],
-        "declKind": "Struct",
-        "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV",
-        "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetV",
+        "declKind": "Class",
+        "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC",
+        "mangledName": "$s20PixlNFTsPlacementSDK8NFTAssetC",
         "moduleName": "PixlNFTsPlacementSDK",
         "declAttributes": [
           "AccessControl"
@@ -800,15 +915,15 @@
                     "kind": "TypeNominal",
                     "name": "NFTAsset",
                     "printedName": "PixlNFTsPlacementSDK.NFTAsset",
-                    "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV"
+                    "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetVSgvp",
-            "mangledName": "$s20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetVSgvp",
+            "usr": "s:20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetCSgvp",
+            "mangledName": "$s20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetCSgvp",
             "moduleName": "PixlNFTsPlacementSDK",
             "declAttributes": [
               "Custom",
@@ -832,15 +947,15 @@
                         "kind": "TypeNominal",
                         "name": "NFTAsset",
                         "printedName": "PixlNFTsPlacementSDK.NFTAsset",
-                        "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV"
+                        "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetVSgvg",
-                "mangledName": "$s20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetVSgvg",
+                "usr": "s:20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetCSgvg",
+                "mangledName": "$s20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetCSgvg",
                 "moduleName": "PixlNFTsPlacementSDK",
                 "implicit": true,
                 "accessorKind": "get"
@@ -864,15 +979,15 @@
                         "kind": "TypeNominal",
                         "name": "NFTAsset",
                         "printedName": "PixlNFTsPlacementSDK.NFTAsset",
-                        "usr": "s:20PixlNFTsPlacementSDK8NFTAssetV"
+                        "usr": "s:20PixlNFTsPlacementSDK8NFTAssetC"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetVSgvs",
-                "mangledName": "$s20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetVSgvs",
+                "usr": "s:20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetCSgvs",
+                "mangledName": "$s20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetCSgvs",
                 "moduleName": "PixlNFTsPlacementSDK",
                 "implicit": true,
                 "accessorKind": "set"
@@ -889,8 +1004,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetVSgvM",
-                "mangledName": "$s20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetVSgvM",
+                "usr": "s:20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetCSgvM",
+                "mangledName": "$s20PixlNFTsPlacementSDK0abC14ViewControllerC12placementNFTAA8NFTAssetCSgvM",
                 "moduleName": "PixlNFTsPlacementSDK",
                 "implicit": true,
                 "accessorKind": "_modify"
