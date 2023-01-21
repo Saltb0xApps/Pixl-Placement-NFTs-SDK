@@ -60,6 +60,14 @@
 		<data>
 		7QfcHovbXRtZ6CgRgLhnCG8yZ6s=
 		</data>
+		<key>arrow-left-icon.pdf</key>
+		<data>
+		dxf7/GKhXXCJkPLf/7lC70r5m74=
+		</data>
+		<key>grid.png</key>
+		<data>
+		xUfp8Svb3t2FgrWMZOH4XG4zvAI=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -152,6 +160,20 @@
 			<key>hash2</key>
 			<data>
 			euttyUsZFT3HfaOEScEUBv6tn7pmX8VJU4n0iFlQXBE=
+			</data>
+		</dict>
+		<key>arrow-left-icon.pdf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K+EBS7SLvbrpPuQpy3zlvGtZtrvrKehe0GKlX/SOx8w=
+			</data>
+		</dict>
+		<key>grid.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r57bu1ozWUTlqr4nHOT6guyif3C7ON5Fli4aMHn16YA=
 			</data>
 		</dict>
 	</dict>
