@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EaLvwTs6vflpeN5kNgJsZ/g+rlY=
+		QdNH1HQW08qSATikkQgwqQNiE+I=
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZjInjqJDtot6LU/+dbuo9tmJGVE=
+		9QhiiXqSwd4ozYERmzpozkCsB84=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -109,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A9mk8eJDJw1Pb4SrhsAo7oPp1NaN6MOBM13rDLL60YE=
+			4qMwZB0c7tQ9jyx2/k66tgAZaP906+/moDoSKdHQWjw=
 			</data>
 		</dict>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bms4G+hYhV7DQly6wg4GifS8bRr9vMbhU0vu3JWhWK8=
+			XpIAPlFeqQcTYCmYve5nknfhzmlxQ7kdGThgm9sx2p0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
