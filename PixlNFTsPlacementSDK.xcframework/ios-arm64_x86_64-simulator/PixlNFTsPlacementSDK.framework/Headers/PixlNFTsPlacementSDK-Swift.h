@@ -288,6 +288,7 @@ SWIFT_CLASS("_TtC20PixlNFTsPlacementSDK31PixlNFTsPlacementViewController")
 @end
 
 
+
 #endif
 #if defined(__cplusplus)
 #endif
@@ -584,6 +585,7 @@ SWIFT_CLASS("_TtC20PixlNFTsPlacementSDK31PixlNFTsPlacementViewController")
 - (void)renderer:(id <SCNSceneRenderer> _Nonnull)renderer didAddNode:(SCNNode * _Nonnull)node forAnchor:(ARAnchor * _Nonnull)anchor;
 - (void)renderer:(id <SCNSceneRenderer> _Nonnull)renderer didRemoveNode:(SCNNode * _Nonnull)node forAnchor:(ARAnchor * _Nonnull)anchor;
 @end
+
 
 
 #endif
