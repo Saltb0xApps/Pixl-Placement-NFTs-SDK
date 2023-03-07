@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PixlNFTsPlacementSDK-Swift.h</key>
 		<data>
-		FKqDZ1X4wqlg3u2MEYkCCXBnkzw=
+		gkqqK0weKrVQV/uRi3sHdPaStNg=
 		</data>
 		<key>Headers/PixlNFTsPlacementSDK.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/PixlNFTsPlacementSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		be6cTVtaOVIGXCQBo+lbFQV80Ho=
+		QE+t9wweYxGFcAYUNlJoF/JYXhM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,7 +55,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZfpCVdS3DJgem38gT2sGrN5Wm78c/BVGGv0TkbdVVvA=
+			J2dQe+CKCox5iPHp8KqcNFTYgf5RmTLrXgk8lONpkqU=
 			</data>
 		</dict>
 		<key>Headers/PixlNFTsPlacementSDK.h</key>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			snpthfeRPLFzzuEXIgzoxAkXMKzjWJcsnKU0ZWgTY5A=
+			Z+LQcIbUGY+oI43EQKMSSoevSKLwrSDiRfs7xXUTipg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
