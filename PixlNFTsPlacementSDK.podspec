@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'PixlNFTsPlacementSDK'
-    s.version           = '1.2.3'
+    s.version           = '1.2.4'
     s.summary           = 'place nfts from the polygon blockchain anywhere in AR with persistence'
     s.homepage          = 'https://www.pixlapp.xyz'
 
